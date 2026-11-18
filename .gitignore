@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+# Temporary verification & sandbox directory
+sandbox/
+__pycache__/
+
+.lic.running
+*.exe
+license_in_use.dat
+lictm
